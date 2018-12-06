@@ -144,7 +144,7 @@ img.img-polaroid {
 } 
 header .navbar {
     margin-bottom: 0;
-	margin-left:400px;
+	margin-left:0px;
 
 }
 
@@ -168,7 +168,7 @@ color: #1891EC;
 
 header .navbar-collapse  ul.navbar-nav {
     float:left;
-    margin-right: 0;
+    margin-right:0;
 }
 header .navbar {min-height: 70px;padding: 18px 0;background: #ffffff;}
 .home-page header .navbar-default{
@@ -1497,7 +1497,6 @@ article img.pull-right, article .align-right{
 	float:right;
 	margin:5px 0 15px 15px;
 }
- ============================= */
 
 .clear-marginbot{
 	margin-bottom:0;
