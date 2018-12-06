@@ -144,6 +144,8 @@ img.img-polaroid {
 } 
 header .navbar {
     margin-bottom: 0;
+	margin-left:400px;
+
 }
 
 .navbar-default {
@@ -165,7 +167,7 @@ color: #1891EC;
 }
 
 header .navbar-collapse  ul.navbar-nav {
-    float: right;
+    float:left;
     margin-right: 0;
 }
 header .navbar {min-height: 70px;padding: 18px 0;background: #ffffff;}
